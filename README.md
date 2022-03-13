@@ -1,13 +1,1 @@
-# Periodismo de Datos en UC3M
-
-Notas sobre **Periodismo de Datos** en *UC3M*
-
-## Qué es el periodismo de datos
-### Tres saberes implicados
-- Periodismo
-- Visualización
-- Datos
-
-## Por qué *Ponte Datos*
-
-Por Concepción Arenal Ponte
+##En este repositorio voy a tratar de explicar las razones por las cuales Ucrania es un punto estratégico para Rusia y para la UE, razones por las cuales están aconteciendo los hechos actuales.
